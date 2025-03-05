@@ -22,3 +22,5 @@ This repository is solely managed by **Ali Hamza**, and updates will be made reg
 **Maintained by:** Ali Hamza
 ## Class Timing
 - **Friday Morning**
+- **SIR HAMZAH SYED**
+
